@@ -7,6 +7,8 @@ The feeling of looking up to " MIT " never fades away, I love reading its histor
 
 Now Let's get started with <h1><b>CS @ MIT</b></h1>
 
+<img src="https://github.com/SKKSaikia/MIT4AI/blob/master/images/main/MIT_CSAIL.jpg">
+
 Welcome Home, I guess ! MIT CS [[EECS]](https://www.eecs.mit.edu/)  is huge, but we will focus only on [CSAIL](https://www.csail.mit.edu/). It will not be easy to digest everything, but focus and make sure to understand and go through everthing I list here. This blog is personal as well as public, so everything I list here, I personally kind of understand them word by word, helps me get a grisp of the content. Hope you enjoy! " Mens et Manus"
 
 Major Works done Until XXX
