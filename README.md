@@ -18,8 +18,10 @@ Research Areas @ [CSAIL](https://www.csail.mit.edu/research)
 
 I will focus this blog on three areas:
 
-⌘ AI & Machine Learning </n>
-⌘ Security & Cryptography</n>
+⌘ AI & Machine Learning
+
+⌘ Security & Cryptography
+
 ⌘ Systems & Networking
 
 Major Works done Until XXX at [CSAIL](https://www.youtube.com/user/MITCSAIL/videos)
