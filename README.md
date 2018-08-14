@@ -1,4 +1,4 @@
-# MIT4AI
+# [MIT](http://www.mit.edu/)4AI
 
 
 <img src = "https://github.com/SKKSaikia/MIT4AI/blob/master/images/main/mit_logo.png">
