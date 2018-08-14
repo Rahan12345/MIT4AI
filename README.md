@@ -7,7 +7,7 @@ The feeling of looking up to " MIT " never fades away, I love reading its histor
 
 Now Let's get started with <h1><b>CS @ MIT</b></h1>
 
-MIT CS is huge ( [EECS](https://www.eecs.mit.edu/) ) but we will focus only on [CSAIL](https://www.csail.mit.edu/). It will not be easy to digest everything, but focus and make sure to understand and go through everthing I list here. This blogs are personal as well as public, so everything I list here, I personally kind of understand them word by word, helps me get a grisp of the content. Hope you enjoy!
+MIT CS is huge ( [EECS](https://www.eecs.mit.edu/) ) but we will focus only on [CSAIL](https://www.csail.mit.edu/). It will not be easy to digest everything, but focus and make sure to understand and go through everthing I list here. This blog is personal as well as public, so everything I list here, I personally kind of understand them word by word, helps me get a grisp of the content. Hope you enjoy! " Mens et Manus"
 
 Major History Until XXX
 -
