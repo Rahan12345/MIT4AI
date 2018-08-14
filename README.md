@@ -7,7 +7,7 @@ The feeling of looking up to " MIT " never fades away, I love reading its histor
 
 Now Let's get started with <h1><b>CS @ MIT</b></h1>
 
-MIT CS is huge ( [EECS](https://www.eecs.mit.edu/) ) but we will focus only on [CSAIL](https://www.csail.mit.edu/)
+MIT CS is huge ( [EECS](https://www.eecs.mit.edu/) ) but we will focus only on [CSAIL](https://www.csail.mit.edu/). It will not be easy to digest everything, but will focus and will make sure to understand and go through everthing I list here.
 
 Major History Until XXX
 -
