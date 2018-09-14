@@ -47,6 +47,8 @@ aka [Robots Teaching Themselves to See](https://youtu.be/OplLXzxxmdA) </b>
 
 <b> 9 [Printable programmable viscoelastic materials for robots](https://ieeexplore.ieee.org/document/7759409/) [VIDEO](https://youtu.be/zrRs4GXxjVA) </b>
 
-<b> 10 []() </b>
+<b> 10 [Neural Adaptive Bitrate Streaming using Reinforcement Learning](https://www.csail.mit.edu/research/neural-adaptive-bitrate-streaming-using-reinforcement-learning) </b>
 
-They have built various other interesting projects like - [Self Driving Cars](https://toyota.csail.mit.edu/), [Transforming Robots with Origami Exoskeletons](http://news.mit.edu/2017/superhero-robot-wears-different-outfits-different-tasks-0927), [Robotic Fish](http://news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321), [Data Garbling: Computing on Encrypted Data](https://www.csail.mit.edu/research/data-garbling-computing-encrypted-data), [Fooling Neural Networks](https://arxiv.org/abs/1712.07113), []()
+They have built various other interesting projects like - [MIT Cheetah Project](http://news.mit.edu/2018/blind-cheetah-robot-climb-stairs-obstacles-disaster-zones-0705), [Self Driving Cars](https://toyota.csail.mit.edu/), [Transforming Robots with Origami Exoskeletons](http://news.mit.edu/2017/superhero-robot-wears-different-outfits-different-tasks-0927), [Robotic Fish](http://news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321), [Data Garbling: Computing on Encrypted Data](https://www.csail.mit.edu/research/data-garbling-computing-encrypted-data), [Fooling Neural Networks](https://arxiv.org/abs/1712.07113), [Shape-shifting Display](https://youtu.be/lvtfD_rJ2hE), [Amoeba: A shape changing storage system for big data](https://www.csail.mit.edu/research/amoeba-shape-changing-storage-system-big-data)
+
+Many Projects are secret research and collaboration between partner labs, and are not out for public. | MIT
