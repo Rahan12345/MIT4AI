@@ -27,3 +27,10 @@ I will focus this blog on three areas:
 Major Works done Until XXX at [CSAIL](https://www.youtube.com/user/MITCSAIL/videos) [Top 10]
 -
 
+# 1. [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)<br/>
+aka [Robots Teaching Themselves to See](https://youtu.be/OplLXzxxmdA)
+
+# 7 [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://roadmaps.csail.mit.edu/roadtracer/)
+[Video](https://youtu.be/Lj_g1qb4cbs)
+
+
