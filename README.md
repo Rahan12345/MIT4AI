@@ -27,26 +27,26 @@ I will focus this blog on three areas:
 Major Works done Until XXX at [CSAIL](https://www.youtube.com/user/MITCSAIL/videos) [Top 10]
 -
 
-# 1 []()
+<b> 1 []() </b>
 
-# 2 [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/)
+<b> 2 [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) </b>
 
-# 3 [The STEALTH Cyber Security Project](http://groups.csail.mit.edu/EVO-DesignOpt/STEALTHCSec/)
+<b> 3 [The STEALTH Cyber Security Project](http://groups.csail.mit.edu/EVO-DesignOpt/STEALTHCSec/) </b>
 
-# 4 [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/)
+<b> 4 [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/) </b>
 
-# 5 
+<b> 5  </b>
 
-# 6 [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)<br/>
-aka [Robots Teaching Themselves to See](https://youtu.be/OplLXzxxmdA)
+<b> 6 [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)<br/> </b>
+aka [Robots Teaching Themselves to See](https://youtu.be/OplLXzxxmdA) </b>
 
-# 7 [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://roadmaps.csail.mit.edu/roadtracer/)
-[Video](https://youtu.be/Lj_g1qb4cbs)
+<b> 7 [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://roadmaps.csail.mit.edu/roadtracer/)
+[Video](https://youtu.be/Lj_g1qb4cbs) </b>
 
-# 8 []()
+<b> 8 []() </b>
 
-# 9 [Printable programmable viscoelastic materials for robots](https://ieeexplore.ieee.org/document/7759409/) [VIDEO](https://youtu.be/zrRs4GXxjVA)
+<b> 9 [Printable programmable viscoelastic materials for robots](https://ieeexplore.ieee.org/document/7759409/) [VIDEO](https://youtu.be/zrRs4GXxjVA) </b>
 
-# 10 []()
+<b> 10 []() </b>
 
 They have built various other interesting projects like - [Self Driving Cars](https://toyota.csail.mit.edu/), [Transforming Robots with Origami Exoskeletons](http://news.mit.edu/2017/superhero-robot-wears-different-outfits-different-tasks-0927), [Robotic Fish](http://news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321), [Data Garbling: Computing on Encrypted Data](https://www.csail.mit.edu/research/data-garbling-computing-encrypted-data), [Fooling Neural Networks](https://arxiv.org/abs/1712.07113), []()
