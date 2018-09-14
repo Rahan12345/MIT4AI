@@ -27,27 +27,27 @@ I will focus this blog on three areas:
 Major Works done Until XXX at [CSAIL](https://www.youtube.com/user/MITCSAIL/videos) [Top 10]
 -
 
-<b> 1 []() </b>
+<b> ∞ [AI²: an AI-driven predictive cybersecurity platform](https://youtu.be/b6Hf1O_vpwQ) </b>
 
-<b> 2 [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) </b>
+<b> ∞ [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/) </b>
 
-<b> 3 [The STEALTH Cyber Security Project](http://groups.csail.mit.edu/EVO-DesignOpt/STEALTHCSec/) </b>
+<b> ∞ [The STEALTH Cyber Security Project](http://groups.csail.mit.edu/EVO-DesignOpt/STEALTHCSec/) </b>
 
-<b> 4 [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/) </b>
+<b> ∞ [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/) </b>
 
-<b> 5  </b>
+<b> ∞ [The MIT DARPA Robotics Challenge Team](http://drc.mit.edu/) </b>
 
-<b> 6 [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)<br/> </b>
+<b> ∞ [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)<br/> </b>
 aka [Robots Teaching Themselves to See](https://youtu.be/OplLXzxxmdA) </b>
 
-<b> 7 [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://roadmaps.csail.mit.edu/roadtracer/)
+<b> ∞ [RoadTracer: Automatic Extraction of Road Networks from Aerial Images](https://roadmaps.csail.mit.edu/roadtracer/)
 [Video](https://youtu.be/Lj_g1qb4cbs) </b>
 
-<b> 8 []() </b>
+<b> ∞ [Drone Navigation in Uncertain Environments](https://github.com/peteflorence/nanomap_ros) </b> [VIDEO](https://youtu.be/yOrtZ38olvc)
 
-<b> 9 [Printable programmable viscoelastic materials for robots](https://ieeexplore.ieee.org/document/7759409/) [VIDEO](https://youtu.be/zrRs4GXxjVA) </b>
+<b> ∞ [Printable programmable viscoelastic materials for robots](https://ieeexplore.ieee.org/document/7759409/) [VIDEO](https://youtu.be/zrRs4GXxjVA) </b>
 
-<b> 10 [Neural Adaptive Bitrate Streaming using Reinforcement Learning](https://www.csail.mit.edu/research/neural-adaptive-bitrate-streaming-using-reinforcement-learning) </b>
+<b> ∞ [Neural Adaptive Bitrate Streaming using Reinforcement Learning](https://www.csail.mit.edu/research/neural-adaptive-bitrate-streaming-using-reinforcement-learning) </b>
 
 They have built various other interesting projects like - [MIT Cheetah Project](http://news.mit.edu/2018/blind-cheetah-robot-climb-stairs-obstacles-disaster-zones-0705), [Self Driving Cars](https://toyota.csail.mit.edu/), [Transforming Robots with Origami Exoskeletons](http://news.mit.edu/2017/superhero-robot-wears-different-outfits-different-tasks-0927), [Robotic Fish](http://news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321), [Data Garbling: Computing on Encrypted Data](https://www.csail.mit.edu/research/data-garbling-computing-encrypted-data), [Fooling Neural Networks](https://arxiv.org/abs/1712.07113), [Shape-shifting Display](https://youtu.be/lvtfD_rJ2hE), [Amoeba: A shape changing storage system for big data](https://www.csail.mit.edu/research/amoeba-shape-changing-storage-system-big-data)
 
